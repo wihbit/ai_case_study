@@ -1,4 +1,4 @@
-# SuperAnnotate
+# [SuperAnnotate](https://www.superannotate.com/)
 
 ## Overview and Origin
 
@@ -10,9 +10,11 @@
 
 * SuperAnnotate seeks to streamline and optimize data annotation, helping customers improve the performance of their machine learning models, and spend less time and money creating the datasets used to train their models. <sup>[3]</sup>
 * Data annotation is often a tedious process. For example, training object recognition models for computer vision often requires that a human being take thousands of images, manually draw bounding boxes around objects of interest in them, and annotate attributes about them. <sup>[4]</sup> SuperAnnotate employs various AI/ML strategies to mitigate, sometimes eliminate the manual work that goes into this process.
-
 * SuperAnnotate's target customers are individuals and enterprises that develop machine learning applications <sup>[5]</sup>. The most popular use case is specifically with image annotations for computer vision, but SuperAnnotate also has tools for annotating audio, text, and other data formats. <sup>[3]</sup>
-* The amount of businesses that are creating and/or incorporating machine learning into their operations is growing radidly. Surveillance camera manufacturers are developing models that can recognize objects and activities. Customer service entities are developing chat bots to interact with customers. Many of these require some form of data annotation, so the incentive to improve the cost- and time-efficiency of data annotation is growing just as rapidly.
+* According to [GlobalNewswire](https://www.globenewswire.com/en/news-release/2023/03/23/2632997/28124/en/Data-Annotation-and-Labeling-Global-Market-Report-2023-Increasing-Need-to-Improve-Machine-Learning-Models-and-Train-AI-Algorithms-Boosts-Growth.html):
+  >Any model or system that relies on a computer-driven decision-making system must annotate and label the data in order to guarantee that the decisions are accurate and pertinent. Businesses use massive amounts of datasets when building an ML model, carefully customizing them according to the model training needs. 
+
+  SuperAnnotate and companies like it are addressing the demand to make data annotation cheaper, faster, and more accurate.
 * SuperAnnotate's edge over many competitors is that they are leveraging AI to accelerate data annotation. Some competitors strictly offer data annotation as a service rather than a tool that they can put in the customer's hands <sup>[6]</sup>. Other competitors offer data annotation tools that are not AI-driven and require much more time and manual input from the user. <sup>[7]</sup>
 * SuperAnnotate employs a large range of technologies and algorithms to enhance the data annotation process, including but not limited to: <sup>[3]</sup>
   * Object detection
@@ -34,13 +36,19 @@
 
 * SuperAnnotate is in the data annotation field, which is a smaller part of the software development and AI field.
 * Data annotation was a $800 million industry in 2022 and is growing at an estimated 33% per year, expected to be a $3.6 billion industry in 2027 <sup>[8]</sup>
+* Key drivers of data annotation growth are: <sup>[8]</sup>
+  * demand to improve ML models
+  * demand for annotated datasets in autonomous mobility technologies
+  * rising popularity of labeled data in medical imaging
+* Key restraints to data annotation growth, which SuperAnnotate addresses:
+  * high costs of manual data annotation
+  * poor quality of training data
 * Some other major companies in this field are Amazon (Mechanical Turk), LabelBox, Kili Technology, Hive, Appen, and KeyMakr <sup>[9] [10]</sup>
 
 ## Results
 
 * SuperAnnotate's company valuation has grown 7,500% in the last 5 years. <sup>[11]</sup>
-* Their website cites four main case studies where SuperAnnotate provided a solution to various companies' annotation needs. <sup>[12] [13] [14] [15]</sup>
-* SuperAnnotate allowed these companies to achieve higher accuracy than their competitors, reduce data annotation timelines, speed up quality assurance, and reduce overall project costs.
+* Their website cites four main case studies where SuperAnnotate successfully provided a solution to various companies' annotation needs. SuperAnnotate empowered these companies to achieve higher accuracy than their competitors, reduce data annotation timelines, speed up quality assurance, and reduce overall project costs.  <sup>[12] [13] [14] [15]</sup>
 * According to LabelVisor, SuperAnnotate ranks #1 in their list of the top 7 annotation providers in 2024, based on pricing and user reviews. <sup>[9]</sup>
 
 ## Recommendations
