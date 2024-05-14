@@ -9,8 +9,7 @@
 ## Business Activities
 
 * SuperAnnotate seeks to streamline and optimize data annotation, helping customers improve the performance of their machine learning models, and spend less time and money creating the datasets used to train their models. <sup>[3]</sup>
-* Data annotation is often a tedious process. For example, training object recognition models for computer vision often requires that a human being take thousands of images, manually draw bounding boxes around objects of interest in them, and annotate attributes about them. <sup>[4]</sup>
-* SuperAnnotate employs various AI/ML strategies to mitigate, sometimes eliminate the manual work that goes into this process.
+* Data annotation is often a tedious process. For example, training object recognition models for computer vision often requires that a human being take thousands of images, manually draw bounding boxes around objects of interest in them, and annotate attributes about them. <sup>[4]</sup> SuperAnnotate employs various AI/ML strategies to mitigate, sometimes eliminate the manual work that goes into this process.
 
 * SuperAnnotate's target customers are individuals and enterprises that develop machine learning applications <sup>[5]</sup>. The most popular use case is specifically with image annotations for computer vision, but SuperAnnotate also has tools for annotating audio, text, and other data formats. <sup>[3]</sup>
 * The amount of businesses that are creating and/or incorporating machine learning into their operations is growing radidly. Surveillance camera manufacturers are developing models that can recognize objects and activities. Customer service entities are developing chat bots to interact with customers. Many of these require some form of data annotation, so the incentive to improve the cost- and time-efficiency of data annotation is growing just as rapidly.
