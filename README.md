@@ -1,5 +1,5 @@
 # [SuperAnnotate](https://www.superannotate.com/)
-
+![SuperAnnotate](https://media.licdn.com/dms/image/C4E0BAQFu0ulbwRDchA/company-logo_200_200/0/1630632050819/superannotate_logo?e=2147483647&v=beta&t=1_ELUJA-8zFmUT7npnweEIFkKy6c_GW81YEGzRikmCg)
 ## Overview and Origin
 
 * SuperAnnotate was founded in late 2018 by brothers Tigran and Vahan Petrosyan after they dropped out of their PhD programs. <sup>[1]</sup>
